@@ -21,8 +21,6 @@ axios.get('https://api.sheety.co/92569ff1ab8ae34c8cdad7ffbb3f5d1f/databaseWisata
 <div className="section m-3 p-3">
   <div className="container">
   <div className="justify-content-center mb-5">
-    <p className="text-center">Lorem ipsum dolor sit amet consectetur. At eget gravida amet sollicitudin elementum eget. Magna posuere mattis sem netus. 
-        Lacus commodo duis enim duis odio vitae eu quis. Purus tellus id mauris nunc in senectus massa amet elementum.</p>
         <h4 className="mt-5 fw-bold text-center">Destinasi Utama di Nusa Tenggara Timur</h4>  
   </div>
   <div className="mt-5">
